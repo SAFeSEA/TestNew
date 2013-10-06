@@ -7,6 +7,11 @@ class class_name {
 	}
 }
 
+/**
+ * 
+ * @author Nicolas
+ *
+ */
 class class_name2 {
 	function function_name() {
 		;
