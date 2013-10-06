@@ -3,6 +3,7 @@
 class class_name {
 	function function_name() {
 		;
+		// test
 	}
 }
 
@@ -11,4 +12,6 @@ class class_name2 {
 		;
 	}
 }
+
+
 
